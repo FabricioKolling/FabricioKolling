@@ -1,4 +1,9 @@
-### Hi there 👋
+<h2 align = "center"> Olá! Seja muito bem-vindo(a) ao meu GitHub! ↴</h2>
+
+<div style= "display: inline_block" align ="center"> <br>
+<img align = "center" alt ="fabricio-js" height ="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
+<img align = "center" alt ="fabricio-js" height ="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" >
+                   
 
 <!--
 **FabricioKolling/FabricioKolling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
