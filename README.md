@@ -1,11 +1,12 @@
 <h2 align = "center"> 🐣 Olá! Seja muito bem-vindo(a) ao meu GitHub! ↴</h2>
 
 <div align="center">
-    <a>
+    <a href="https://github.com/FabricioKolling">
         <img height="165" src="https://github-readme-stats.vercel.app/api?username=FabricioKolling&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioKolling&layout=compact&langs_count=10&theme=tokyonight"/>
     </a>
 </div>
+
 <div style= "display: inline_block" align ="center"> <br>
 <img align = "center" alt ="fabricio-html" height ="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align = "center" alt ="fabricio-css" height ="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
