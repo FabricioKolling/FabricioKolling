@@ -1,7 +1,7 @@
 <h2 align = "center"> 🐣 Olá! Seja muito bem-vindo(a) ao meu GitHub! ↴</h2>
 
 <div align="center">
-    <a href="https://github.com/Luis-Tanese">
+    <a>
         <img height="165" src="https://github-readme-stats.vercel.app/api?username=FabricioKolling&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioKolling&layout=compact&langs_count=10&theme=tokyonight"/>
     </a>
