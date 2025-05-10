@@ -1,32 +1,31 @@
-<h2 align = "center"> 🐣 Olá! Seja muito bem-vindo(a) ao meu GitHub! ↴</h2>
+<h2 align = "center"> Olá! Seja muito bem-vindo(a) ao meu GitHub! ↴</h2>
 
-<div align="center">
+<div align="center"><br>
     <a href="https://github.com/FabricioKolling">
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=FabricioKolling&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioKolling&layout=compact&langs_count=10&theme=tokyonight"/>
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=FabricioKolling&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioKolling&layout=compact&langs_count=10&theme=midnight-purple"/>
     </a>
 </div>
 
-<div style= "display: inline_block" align ="center"> <br>
-<img align = "center" alt ="fabricio-html" height ="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align = "center" alt ="fabricio-css" height ="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align = "center" alt ="fabricio-js" height ="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
+<div style="display: inline_block" align="center"><br><br>
+  <img align="center" alt="Fabricio-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fabricio-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fabricio-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Fabricio-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
-          
-                    
-                   
+<img align="right" alt="Fabricio-react" height="110" width="110" src="https://preview.redd.it/akkxz5ofa3ob1.jpg?auto=webp&s=359200b26e1c3b5d63b55682c38022d96c88711b"><img/>
 
-<!--
-**FabricioKolling/FabricioKolling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 
+ 
+<div><br>
+  <a href="https://instagram.com/fabr.exx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%236b34c2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%236b34c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>          
 
-Here are some ideas to get you started:
+<div align="center">
+<br><p align="center"><b>👀</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FabricioKolling}/count.svg" /></p> 
+<br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
