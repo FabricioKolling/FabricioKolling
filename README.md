@@ -12,6 +12,7 @@
   <img align="center" alt="Fabricio-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabricio-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Fabricio-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Fabricio-bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 <img align="right" alt="Fabricio-react" height="110" width="110" src="https://preview.redd.it/akkxz5ofa3ob1.jpg?auto=webp&s=359200b26e1c3b5d63b55682c38022d96c88711b"><img/>
