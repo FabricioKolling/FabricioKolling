@@ -7,18 +7,37 @@
     </a>
 </div>
 
-<div style="display: inline_block" align="center"><br><br>
-  <img align="center" alt="Fabricio-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fabricio-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fabricio-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Fabricio-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+<img align="right" alt="foto" height="65" width="65" src="https://preview.redd.it/akkxz5ofa3ob1.jpg?auto=webp&s=359200b26e1c3b5d63b55682c38022d96c88711b"><img/>
+
+
+## Tecnologias Dominadas
+
+### Linguagens
+<br>
+
+<div style="display: inline_block" align="left">
+  <img align="center" alt="Fabricio-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fabricio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fabricio-js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Fabricio-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+</div><br>
+
+### Frameworks e Bibliotecas
+<br>
+
+<div style="display: inline_block" align="left">
   <img align="center" alt="Fabricio-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fabricio-bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-</div>
+</div><br>
 
+### Banco de Dados
+<br>
 
+<div style="display: inline_block" align="left">
+   <img align="center" alt="Fabricio-sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+</div><br>        
 
-## Contact
+## Contato
  
 <div>
   <a href="https://instagram.com/fabr.exx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%236b34c2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,4 +50,3 @@
 <br>
 </div>
 
-<img align="right" alt="foto" height="110" width="110" src="https://preview.redd.it/akkxz5ofa3ob1.jpg?auto=webp&s=359200b26e1c3b5d63b55682c38022d96c88711b"><img/>
