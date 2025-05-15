@@ -16,11 +16,11 @@
   <img align="center" alt="Fabricio-bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 </div>
 
-<img align="right" alt="foto" height="110" width="110" src="https://preview.redd.it/akkxz5ofa3ob1.jpg?auto=webp&s=359200b26e1c3b5d63b55682c38022d96c88711b"><img/>
 
-## 
+
+## Contact
  
-<div><br>
+<div>
   <a href="https://instagram.com/fabr.exx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%236b34c2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%236b34c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>          
@@ -31,3 +31,4 @@
 <br>
 </div>
 
+<img align="right" alt="foto" height="110" width="110" src="https://preview.redd.it/akkxz5ofa3ob1.jpg?auto=webp&s=359200b26e1c3b5d63b55682c38022d96c88711b"><img/>
