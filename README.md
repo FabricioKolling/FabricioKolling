@@ -1,5 +1,7 @@
 <h2 align="center" style="color: #8a2be2;">Olá! Seja muito bem-vindo(a) ao meu GitHub! ↴</h2>
 
+<img src="src/BannerEu.png" alt="MeuBanner" width="100%"/>
+
 ---
 
 ## Status do Github
