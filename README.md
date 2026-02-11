@@ -15,7 +15,7 @@
 
 
 <div align="right">
-  <img alt="Foto de perfil" height="70" width="70" src="https://preview.redd.it/akkxz5ofa3ob1.jpg?auto=webp&s=359200b26e1c3b5d63b55682c38022d96c88711b">
+  <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/27408837-2135-46f0-bb9d-279677d6d284" />
 </div>
 
 
