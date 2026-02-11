@@ -2,6 +2,8 @@
 
 <img src="src/BannerEu.png" alt="MeuBanner" width="100%"/>
 
+<h3 align="center" style="color: #8a2be2;"><a href="https://portfolio-fabricio-2025.netlify.app" target="_blank">⇾ Portfólio ⇽</a></h3>
+
 ---
 
 ## Status do Github
