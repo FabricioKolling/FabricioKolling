@@ -4,7 +4,7 @@
 
 <h3>Meu Portfólio: <a href="https://portfolio-fabricio-2025.netlify.app" target="_blank">(Clique aqui)</a></h3>
 
----
+##
 
 ## Status do Github
 
@@ -14,12 +14,6 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioKolling&layout=compact&langs_count=10&theme=midnight-purple" />
   </a>
 </div>
-
-
-<div align="right">
-  <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/27408837-2135-46f0-bb9d-279677d6d284" />
-</div>
-
 
 ## Conhecimentos
 
