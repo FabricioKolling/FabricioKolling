@@ -46,7 +46,7 @@
   <a href="https://instagram.com/fabr.exx" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%238A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/fabricio-kolling/" target="_blank">
+  <a href="https://www.linkedin.com/in/fabricio-ereno-kolling/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%238A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
