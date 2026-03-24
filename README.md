@@ -1,12 +1,12 @@
-<h2 align="center" style="color: #8a2be2;">Olá! Seja muito bem-vindo(a) ao meu GitHub! ↴</h2>
+<h2 align="center" style="color: #8a2be2;">Hi there! Welcome to my GitHub! ↴</h2>
 
 <img src="src/BannerEu.png" alt="MeuBanner" width="100%"/>
 
-<h3>Meu Portfólio: <a href="https://portfolio-fabricio-2025.netlify.app" target="_blank">(Clique aqui)</a></h3>
+<h3>My Portfolio: <a href="https://portfolio-fabricio-2025.netlify.app" target="_blank">(Click here)</a></h3>
 
 ##
 
-## Status do Github
+## GitHub Stats
 
 <div align="center"><br>
   <a href="https://github.com/FabricioKolling">
@@ -15,9 +15,9 @@
   </a>
 </div>
 
-## Conhecimentos
+## Tech Stack
 
-### Linguagens
+### Languages & Web Technologies.
 <p align="center">
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +26,7 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 </p> 
 
-### Frameworks & Bibliotecas
+### Frameworks & Libraries
 <p align="center">
     
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -34,14 +34,14 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </p> 
 
-### Banco de Dados
+### Databases
 <p align="center">
     
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 </p>
 
 
-## Contatos
+## Contact
 <p>
   <a href="https://instagram.com/fabr.exx" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%238A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
