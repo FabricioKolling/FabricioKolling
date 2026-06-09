@@ -53,13 +53,5 @@
 
 ---
 
-<br><img src="https://raw.githubusercontent.com/FabricioKolling/FabricioKolling/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FabricioKolling/FabricioKolling/output/snake.svg" alt="Snake animation" />
 
----
-
-<div align="center">
-  <p><b>👀</b></p>
-  <p>
-    <img align="center" src="https://profile-counter.glitch.me/{FabricioKolling}/count.svg" />
-  </p>
-</div>
